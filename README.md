@@ -173,4 +173,4 @@ model_list.json
 
 **API 内所有模型版权均属于 [原作者](https://www.fghrsh.net)，仅供研究学习，不得用于商业用途**  
 
-MIT © FGHRSH
+MIT © SUPER
