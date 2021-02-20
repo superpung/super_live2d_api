@@ -1,6 +1,6 @@
 # Live2d API
 
-[ExiTalk](https://www.superpung.xyz/) Live2d 看板娘插件上使用的后端 API
+[SuperPung](https://blog.superpung.xyz/) Live2d 看板娘插件上使用的后端 API
 
 ### 特性
 
