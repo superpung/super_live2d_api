@@ -1,0 +1,40 @@
+{
+    "models": [
+    ["22/default",
+      "22/cba-normal",
+      "22/cba-super",
+      "22/newyear",
+      "22/school2017",
+      "22/spring-2018",
+      "22/summer2017-high",
+      "22/summer2017-low",
+      "22/tomo-high",
+      "22/tomo-low",
+      "22/valley2017",
+      "22/vdays",
+      "22/xmas",
+      "22/xmas-headwear"
+    ],
+    ["33/default",
+      "33/cba-normal",
+      "33/cba-super",
+      "33/newyear",
+      "33/school2017",
+      "33/spring-2018",
+      "33/summer2017-high",
+      "33/summer2017-low",
+      "33/tomo-high",
+      "33/tomo-low",
+      "33/valley2017",
+      "33/vdays",
+      "33/xmas",
+      "33/xmas-headwear"
+    ],
+        "kesshouban"
+    ],
+    "messages": [
+        "来自 Bilibili Live 的 22 哦 ~",
+        "来自 Bilibili Live 的 33 的说",
+        "来自 はたらく細胞 的 血小板 ～"
+    ]
+}
